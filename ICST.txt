@@ -1,9 +1,0 @@
-ICST
-
-For a, b positive odd integers, * is odd.
-
-Basis: a =1, and b=1, ab=1.
-
-IH: For some odd num a,b ab is odd.
-
-IS: Show that (a+2 )* b is odd.

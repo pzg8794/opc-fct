@@ -4,11 +4,10 @@ Path: `ICST/ICST-HW3`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `4005.docx` (file)
 - `hw-4-1last.jff` (file)
 - `hw-4-1last.jpg` (file)
 - `hw-4-1last2.jpg` (file)
@@ -23,15 +22,8 @@ Indexed project directory from the old Portafolio cleanup.
 - `hw3-4-4.jff` (file)
 - `hw3-4-4.jpg` (file)
 - `hw3-4.jff` (file)
-- `hw3.pdf` (file)
-- `hw3.rtf` (file)
-- `ICST-A1.docx` (file)
-- `ICSTHW3.docx` (file)
-- `Introduction To Computer Science Theory 2123.docx` (file)
-- `Introduction To Computer Science Theory 2123.pdf` (file)
 - `Screen Shot 2013-03-27 at 2.14.49 PM.png` (file)
-- `UploadedFile_130084775846874074.doc` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

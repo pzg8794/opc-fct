@@ -4,7 +4,7 @@ Path: `FCT_Hw4`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
@@ -12,8 +12,6 @@ Indexed project directory from the old Portafolio cleanup.
 - `fcth412.jff` (file)
 - `fcth4122.jff` (file)
 - `fcth44.jff` (file)
-- `FCTHW4.pdf` (file)
-- `PDAEXAMPLE.jff` (file)
 - `Screen Shot 2013-06-27 at 11.01.02 PM.png` (file)
 - `Screen Shot 2013-06-27 at 11.05.59 PM.png` (file)
 - `Screen Shot 2013-06-28 at 3.38.20 PM.png` (file)
@@ -25,4 +23,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

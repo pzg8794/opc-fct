@@ -1,0 +1,12 @@
+FCT note
+
+E -> E + E ->a + E
+a +  E x E -> a + E x a
+a + a x a
+
+		E
+	E	+ 	E
+a			
+		E	x 	E
+	a				a
+

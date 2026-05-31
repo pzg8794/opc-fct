@@ -1,0 +1,15 @@
+problem 4
+
+a) 
+ {epsilon}
+  empty set
+
+b)
+
+
+problem 5
+context free grammar for a language of a valid regular expression
+
+Sigma = {a, b, U, *, (, ), epsilon, empty set}
+R  -> a | b | epsilon | R U R | RR
+R -> R* | ( R ) | Empty set

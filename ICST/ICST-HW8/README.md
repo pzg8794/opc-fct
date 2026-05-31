@@ -4,11 +4,10 @@ Path: `ICST/ICST-HW8`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `a8.docx` (file)
 - `as74b copy.jpg` (file)
 - `as74b.jff` (file)
 - `as74b.jpg` (file)
@@ -20,4 +19,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

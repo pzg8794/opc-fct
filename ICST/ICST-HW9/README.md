@@ -4,11 +4,10 @@ Path: `ICST/ICST-HW9`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `csci3255 HW  9 and 11.doc` (file)
 - `HW9-1.jff` (file)
 - `HW9-1.jff.jpg` (file)
 - `HW9-1.jpg` (file)
@@ -34,7 +33,6 @@ Indexed project directory from the old Portafolio cleanup.
 - `HW9-6.jpg` (file)
 - `HW9-61.jff` (file)
 - `HW9-61.jpg` (file)
-- `hw9.pdf` (file)
 - `HW9r.jff` (file)
 - `Screen Shot 2013-05-06 at 12.30.56 AM.png` (file)
 - `Screen Shot 2013-05-06 at 12.31.44 AM.png` (file)
@@ -48,4 +46,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

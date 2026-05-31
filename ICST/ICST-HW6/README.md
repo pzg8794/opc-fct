@@ -4,17 +4,10 @@ Path: `ICST/ICST-HW6`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `hw7.pdf` (file)
-- `ICST-A7.docx` (file)
-- `ICST-A7.pdf` (file)
-- `ICST-A72.pdf` (file)
-- `ICST-A7Notes.docx` (file)
-- `ICST-HW6.docx` (file)
-- `ICST-HW6.pdf` (file)
 - `Screen Shot 2013-04-16 at 11.13.21 PM.png` (file)
 - `Screen Shot 2013-04-17 at 11.06.25 AM.png` (file)
 - `Screen Shot 2013-04-17 at 11.11.28 AM.png` (file)
@@ -35,4 +28,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.
