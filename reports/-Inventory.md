@@ -1,0 +1,123 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# reports
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `FCT_Hw3/` - Directory containing related files for this portfolio item.
+- `FCT_Hw4/` - Directory containing related files for this portfolio item.
+- `FCT_HW5/` - Directory containing related files for this portfolio item.
+- `FCT_Hw6/` - Directory containing related files for this portfolio item.
+- `FCT_Hw7/` - Directory containing related files for this portfolio item.
+- `FCT_Hw9/` - Directory containing related files for this portfolio item.
+- `ICST/` - Directory containing related files for this portfolio item.
+- `05-decide-4p.pdf` - File, 600.0 KB.
+- `0907.0159.pdf` - File, 163.0 KB.
+- `123a.pdf` - File, 68.3 KB.
+- `2-Homework.pdf` - File, 797.3 KB.
+- `2010hw7_solution.pdf` - File, 60.2 KB.
+- `355hw2s12sol.pdf` - File, 1.1 MB.
+- `355hw3s12sol.pdf` - File, 154.7 KB.
+- `355hw4s11sol.pdf` - File, 86.6 KB.
+- `355hw4s12sol.pdf` - File, 186.0 KB.
+- `355hw6sol.pdf` - File, 65.4 KB.
+- `4005.docx` - File, 476.3 KB.
+- `700_0122_hmwk5.pdf` - File, 70.0 KB.
+- `700_0122_hmwk7.pdf` - File, 88.8 KB.
+- `700_0122_hmwk8.pdf` - File, 95.9 KB.
+- `700_final_examples_answers.pdf` - File, 190.6 KB.
+- `a8--from-ICST-ICST---Final-Exam-Review.docx` - File, 227.5 KB.
+- `a8--from-ICST-ICST-HW8.docx` - File, 227.5 KB.
+- `a8.docx` - File, 227.5 KB.
+- `as8.pdf` - File, 1.6 MB.
+- `assign3ans.pdf` - File, 58.3 KB.
+- `c3.pdf` - File, 2.2 MB.
+- `cc-script.pdf` - File, 565.8 KB.
+- `cfg2npda.pdf` - File, 4.0 KB.
+- `Comp-CFL-10.pdf` - File, 307.9 KB.
+- `complexity.pdf` - File, 11.6 KB.
+- `compute.pdf` - File, 8.6 KB.
+- `CS422_HW7sol.doc` - File, 91.5 KB.
+- `csci3255 HW  9 and 11.doc` - File, 81.5 KB.
+- `Decidable Languages(2).docx` - File, 17.0 KB.
+- `enumrec.pdf` - File, 36.8 KB.
+- `FCT-HW2.docx` - File, 218.2 KB.
+- `FCT-HW2.pdf` - File, 647.2 KB.
+- `FCT_HW06.PDF` - File, 3.6 MB.
+- `FCT_HW07.PDF` - File, 3.8 MB.
+- `FCT_HW08.PDF` - File, 2.8 MB.
+- `FCT_HW4.PDF` - File, 5.6 MB.
+- `FCT_HW5.PDF` - File, 2.7 MB.
+- `FCTEXAM.txt` - File, 230 B.
+- `FCTH7.docx` - File, 125.0 KB.
+- `FCTH7.pdf` - File, 482.7 KB.
+- `FCTHomework 6.docx` - File, 223.6 KB.
+- `FCTHomework 6.pdf` - File, 1.4 MB.
+- `FCTHW1.docx` - File, 192.2 KB.
+- `FCTHW1.pdf` - File, 1.1 MB.
+- `FCTHW4.docx` - File, 225.9 KB.
+- `FCTHW4.pdf` - File, 256.9 KB.
+- `FCTHW8.docx` - File, 93.7 KB.
+- `FCTHW8.pdf` - File, 105.7 KB.
+- `FCTNotes.txt` - File, 99 B.
+- `fctSourceBook.pdf` - File, 458.0 KB.
+- `Homework 3.docx` - File, 279.9 KB.
+- `Homework 3.pdf` - File, 692.2 KB.
+- `Homework 4_sol.pdf` - File, 75.8 KB.
+- `Homework 5FCT.docx` - File, 112.2 KB.
+- `Homework 5FCT.pdf` - File, 943.3 KB.
+- `Homework 6_sol.pdf` - File, 177.1 KB.
+- `homework1Solution.pdf` - File, 86.2 KB.
+- `hw1.sols.pdf` - File, 59.7 KB.
+- `hw1sol.pdf` - File, 98.8 KB.
+- `hw3.pdf` - File, 3.2 KB.
+- `hw3.rtf` - File, 5.7 KB.
+- `hw3ans.pdf` - File, 115.1 KB.
+- `hw3s.pdf` - File, 75.3 KB.
+- `hw4sol.pdf` - File, 725.2 KB.
+- `hw5_sol.pdf` - File, 54.1 KB.
+- `hw6.pdf` - File, 3.2 KB.
+- `hw6sol.pdf` - File, 98.5 KB.
+- `hw7.pdf` - File, 3.1 KB.
+- `hw8.pdf` - File, 3.3 KB.
+- `hw9.pdf` - File, 3.9 KB.
+- `hwsol7.pdf` - File, 44.6 KB.
+- `ICST - Assignment 9.docx` - File, 599.1 KB.
+- `ICST - Assignment 9.pdf` - File, 539.5 KB.
+- `ICST-A1.docx` - File, 539.3 KB.
+- `ICST-A7--from-ICST-ICST---Final-Exam-Review.pdf` - File, 286.9 KB.
+- `ICST-A7.docx` - File, 92.2 KB.
+- `ICST-A7.pdf` - File, 286.5 KB.
+- `ICST-A72.pdf` - File, 179.5 KB.
+- `ICST-A7Notes.docx` - File, 75.3 KB.
+- `ICST-HW6--from-ICST-ICST---Final-Exam-Review.pdf` - File, 772.5 KB.
+- `ICST-HW6.docx` - File, 151.4 KB.
+- `ICST-HW6.pdf` - File, 771.1 KB.
+- `ICST.txt` - File, 146 B.
+- `ICSTHW3.docx` - File, 528.4 KB.
+- `Introduction To Computer Science Theory 2123.docx` - File, 683.6 KB.
+- `Introduction To Computer Science Theory 2123.pdf` - File, 717.3 KB.
+- `Introduction To The Theory Of Computation - Michael Sipser copy.pdf` - File, 43.1 MB.
+- `Introduction To The Theory Of Computation - Michael Sipser.pdf` - File, 43.1 MB.
+- `ISCT-HW4.docx` - File, 422.3 KB.
+- `ISCT-HW42.docx` - File, 452.4 KB.
+- `ISCT-HW4Notes.docx` - File, 784.5 KB.
+- `lect18.pdf` - File, 49.1 KB.
+- `lecture-16.pdf` - File, 342.6 KB.
+- `MIDTERM1-20111124-Solution.pdf` - File, 131.9 KB.
+- `notes.txt` - File, 8.4 KB.
+- `ps4-solns.pdf` - File, 62.1 KB.
+- `rdd3443_FCT_assign02 copy.PDF` - File, 5.7 MB.
+- `rdd3443_FCT_assign02.PDF` - File, 5.7 MB.
+- `reduction.pdf` - File, 4.3 KB.
+- `Report.pdf` - File, 890.6 KB.
+- `s3_3.pdf` - File, 166.3 KB.
+- `sol3.pdf` - File, 183.8 KB.
+- `sol4.pdf` - File, 83.8 KB.
+- `Sol5.pdf` - File, 182.1 KB.
+- `turing.pdf` - File, 9.1 KB.
+- `turingmachine.pdf` - File, 116.6 KB.
+- `ucfl.pdf` - File, 3.7 KB.
+- `UploadedFile_130051889226924856.doc` - File, 975.7 KB.
+- `UploadedFile_130084775846874074.doc` - File, 4.8 KB.

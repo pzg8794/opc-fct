@@ -1,15 +1,242 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opc-fct`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/1-DX9ifMHdHqOB0kHF54Qsje9qqYQEJEr
+## Papers
 
-## Available Source Buckets
+- `papers/rm_jv_finalpaper.doc`
 
-- `papers/`: 1 file(s)
-- `reports/`: 129 file(s)
-- `presentations/`: 2 file(s)
+## Reports
 
-## Notes
+- `reports/05-decide-4p.pdf`
+- `reports/0907.0159.pdf`
+- `reports/123a.pdf`
+- `reports/2-Homework.pdf`
+- `reports/2010hw7_solution.pdf`
+- `reports/355hw2s12sol.pdf`
+- `reports/355hw3s12sol.pdf`
+- `reports/355hw4s11sol.pdf`
+- `reports/355hw4s12sol.pdf`
+- `reports/355hw6sol.pdf`
+- `reports/4005.docx`
+- `reports/700_0122_hmwk5.pdf`
+- `reports/700_0122_hmwk7.pdf`
+- `reports/700_0122_hmwk8.pdf`
+- `reports/700_final_examples_answers.pdf`
+- `reports/a8--from-ICST-ICST---Final-Exam-Review.docx`
+- `reports/a8--from-ICST-ICST-HW8.docx`
+- `reports/a8.docx`
+- `reports/as8.pdf`
+- `reports/assign3ans.pdf`
+- `reports/c3.pdf`
+- `reports/cc-script.pdf`
+- `reports/cfg2npda.pdf`
+- `reports/Comp-CFL-10.pdf`
+- `reports/complexity.pdf`
+- `reports/compute.pdf`
+- `reports/CS422_HW7sol.doc`
+- `reports/csci3255 HW  9 and 11.doc`
+- `reports/Decidable Languages(2).docx`
+- `reports/enumrec.pdf`
+- `reports/FCT-HW2.docx`
+- `reports/FCT-HW2.pdf`
+- `reports/FCT_HW06.PDF`
+- `reports/FCT_HW07.PDF`
+- `reports/FCT_HW08.PDF`
+- `reports/FCT_Hw3/0907.0159.pdf`
+- `reports/FCT_Hw3/fctSourceBook.pdf`
+- `reports/FCT_Hw3/Homework 3.docx`
+- `reports/FCT_Hw3/Homework 3.pdf`
+- `reports/FCT_Hw3/hw1sol.pdf`
+- `reports/FCT_HW4.PDF`
+- `reports/FCT_Hw4/FCTHW4.pdf`
+- `reports/FCT_Hw4/PDAEXAMPLE.jff`
+- `reports/FCT_HW5.PDF`
+- `reports/FCT_HW5/355hw4s11sol.pdf`
+- `reports/FCT_HW5/Homework 5FCT.docx`
+- `reports/FCT_HW5/Homework 5FCT.pdf`
+- `reports/FCT_Hw6/FCTHomework 6.docx`
+- `reports/FCT_Hw6/FCTHomework 6.pdf`
+- `reports/FCT_Hw6/hw4sol.pdf`
+- `reports/FCT_Hw6/sol3.pdf`
+- `reports/FCT_Hw6/sol4.pdf`
+- `reports/FCT_Hw7/05-decide-4p.pdf`
+- `reports/FCT_Hw7/assign3ans.pdf`
+- `reports/FCT_Hw7/Decidable Languages(2).docx`
+- `reports/FCT_Hw7/FCTH7.docx`
+- `reports/FCT_Hw7/FCTH7.pdf`
+- `reports/FCT_Hw7/Homework 4_sol.pdf`
+- `reports/FCT_Hw7/hw1.sols.pdf`
+- `reports/FCT_Hw7/hw3ans.pdf`
+- `reports/FCT_Hw7/hw6sol.pdf`
+- `reports/FCT_Hw7/lecture-16.pdf`
+- `reports/FCT_Hw7/sol4.pdf`
+- `reports/FCT_Hw7/Sol5.pdf`
+- `reports/FCT_Hw9/123a.pdf`
+- `reports/FCT_Hw9/700_0122_hmwk5.pdf`
+- `reports/FCT_Hw9/700_0122_hmwk7.pdf`
+- `reports/FCT_Hw9/700_0122_hmwk8.pdf`
+- `reports/FCT_Hw9/700_final_examples_answers.pdf`
+- `reports/FCT_Hw9/c3.pdf`
+- `reports/FCT_Hw9/cc-script.pdf`
+- `reports/FCT_Hw9/enumrec.pdf`
+- `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW06.PDF`
+- `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW07.PDF`
+- `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW08.PDF`
+- `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW4.PDF`
+- `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW5.PDF`
+- `reports/FCT_Hw9/homework1Solution.pdf`
+- `reports/FCT_Hw9/Introduction To The Theory Of Computation - Michael Sipser copy.pdf`
+- `reports/FCT_Hw9/Introduction To The Theory Of Computation - Michael Sipser.pdf`
+- `reports/FCT_Hw9/lect18.pdf`
+- `reports/FCT_Hw9/rdd3443_FCT_assign02 copy.PDF`
+- `reports/FCT_Hw9/rdd3443_FCT_assign02.PDF`
+- `reports/FCT_Hw9/Report.pdf`
+- `reports/FCT_Hw9/UploadedFile_130051889226924856.doc`
+- `reports/FCTEXAM.txt`
+- `reports/FCTH7.docx`
+- `reports/FCTH7.pdf`
+- `reports/FCTHomework 6.docx`
+- `reports/FCTHomework 6.pdf`
+- `reports/FCTHW1.docx`
+- `reports/FCTHW1.pdf`
+- `reports/FCTHW4.docx`
+- `reports/FCTHW4.pdf`
+- `reports/FCTHW8.docx`
+- `reports/FCTHW8.pdf`
+- `reports/FCTNotes.txt`
+- `reports/fctSourceBook.pdf`
+- `reports/Homework 3.docx`
+- `reports/Homework 3.pdf`
+- `reports/Homework 4_sol.pdf`
+- `reports/Homework 5FCT.docx`
+- `reports/Homework 5FCT.pdf`
+- `reports/Homework 6_sol.pdf`
+- `reports/homework1Solution.pdf`
+- `reports/hw1.sols.pdf`
+- `reports/hw1sol.pdf`
+- `reports/hw3.pdf`
+- `reports/hw3.rtf`
+- `reports/hw3ans.pdf`
+- `reports/hw3s.pdf`
+- `reports/hw4sol.pdf`
+- `reports/hw5_sol.pdf`
+- `reports/hw6.pdf`
+- `reports/hw6sol.pdf`
+- `reports/hw7.pdf`
+- `reports/hw8.pdf`
+- `reports/hw9.pdf`
+- `reports/hwsol7.pdf`
+- `reports/ICST - Assignment 9.docx`
+- `reports/ICST - Assignment 9.pdf`
+- `reports/ICST-A1.docx`
+- `reports/ICST-A7--from-ICST-ICST---Final-Exam-Review.pdf`
+- `reports/ICST-A7.docx`
+- `reports/ICST-A7.pdf`
+- `reports/ICST-A72.pdf`
+- `reports/ICST-A7Notes.docx`
+- `reports/ICST-HW6--from-ICST-ICST---Final-Exam-Review.pdf`
+- `reports/ICST-HW6.docx`
+- `reports/ICST-HW6.pdf`
+- `reports/ICST.txt`
+- `reports/ICST/ICST - Final Exam Review/a8.docx`
+- `reports/ICST/ICST - Final Exam Review/as8.pdf`
+- `reports/ICST/ICST - Final Exam Review/cfg2npda.pdf`
+- `reports/ICST/ICST - Final Exam Review/complexity.pdf`
+- `reports/ICST/ICST - Final Exam Review/compute.pdf`
+- `reports/ICST/ICST - Final Exam Review/fcthw1.jff`
+- `reports/ICST/ICST - Final Exam Review/fcthw12.jff`
+- `reports/ICST/ICST - Final Exam Review/hw211.jff`
+- `reports/ICST/ICST - Final Exam Review/hw212.jff`
+- `reports/ICST/ICST - Final Exam Review/hw22.jff`
+- `reports/ICST/ICST - Final Exam Review/hw221.jff`
+- `reports/ICST/ICST - Final Exam Review/hw23.jff`
+- `reports/ICST/ICST - Final Exam Review/hw232.jff`
+- `reports/ICST/ICST - Final Exam Review/hw6.pdf`
+- `reports/ICST/ICST - Final Exam Review/hw7.pdf`
+- `reports/ICST/ICST - Final Exam Review/hw8.pdf`
+- `reports/ICST/ICST - Final Exam Review/hw9.pdf`
+- `reports/ICST/ICST - Final Exam Review/ICST - Assignment 9.docx`
+- `reports/ICST/ICST - Final Exam Review/ICST - Assignment 9.pdf`
+- `reports/ICST/ICST - Final Exam Review/ICST-A7.pdf`
+- `reports/ICST/ICST - Final Exam Review/ICST-HW6.pdf`
+- `reports/ICST/ICST - Final Exam Review/notes.txt`
+- `reports/ICST/ICST - Final Exam Review/reduction.pdf`
+- `reports/ICST/ICST - Final Exam Review/turing.pdf`
+- `reports/ICST/ICST - Final Exam Review/turingmachine.pdf`
+- `reports/ICST/ICST - Final Exam Review/ucfl.pdf`
+- `reports/ICST/ICST-HW3/4005.docx`
+- `reports/ICST/ICST-HW3/hw3.pdf`
+- `reports/ICST/ICST-HW3/hw3.rtf`
+- `reports/ICST/ICST-HW3/ICST-A1.docx`
+- `reports/ICST/ICST-HW3/ICSTHW3.docx`
+- `reports/ICST/ICST-HW3/Introduction To Computer Science Theory 2123.docx`
+- `reports/ICST/ICST-HW3/Introduction To Computer Science Theory 2123.pdf`
+- `reports/ICST/ICST-HW3/UploadedFile_130084775846874074.doc`
+- `reports/ICST/ICST-HW4/2-Homework.pdf`
+- `reports/ICST/ICST-HW4/hw3s.pdf`
+- `reports/ICST/ICST-HW4/hw4-2-73final.jff`
+- `reports/ICST/ICST-HW4/hw4-2-7final2.jff`
+- `reports/ICST/ICST-HW4/ISCT-HW4.docx`
+- `reports/ICST/ICST-HW4/ISCT-HW42.docx`
+- `reports/ICST/ICST-HW4/ISCT-HW4Notes.docx`
+- `reports/ICST/ICST-HW4/s3_3.pdf`
+- `reports/ICST/ICST-HW6/hw7.pdf`
+- `reports/ICST/ICST-HW6/ICST-A7.docx`
+- `reports/ICST/ICST-HW6/ICST-A7.pdf`
+- `reports/ICST/ICST-HW6/ICST-A72.pdf`
+- `reports/ICST/ICST-HW6/ICST-A7Notes.docx`
+- `reports/ICST/ICST-HW6/ICST-HW6.docx`
+- `reports/ICST/ICST-HW6/ICST-HW6.pdf`
+- `reports/ICST/ICST-HW8/a8.docx`
+- `reports/ICST/ICST-HW9/csci3255 HW  9 and 11.doc`
+- `reports/ICST/ICST-HW9/hw9.pdf`
+- `reports/ICST/ICST-HW9/ICST - Assignment 9.docx`
+- `reports/ICST/ICST-STUFF/355hw2s12sol.pdf`
+- `reports/ICST/ICST-STUFF/355hw3s12sol.pdf`
+- `reports/ICST/ICST-STUFF/355hw4s12sol.pdf`
+- `reports/ICST/ICST-STUFF/355hw6sol.pdf`
+- `reports/ICST/ICST-STUFF/a8.docx`
+- `reports/ICST/ICST-STUFF/as8.pdf`
+- `reports/ICST/ICST-STUFF/cfg2npda.pdf`
+- `reports/ICST/ICST-STUFF/Comp-CFL-10.pdf`
+- `reports/ICST/ICST-STUFF/hw5_sol.pdf`
+- `reports/ICST/ICST-STUFF/hw7.pdf`
+- `reports/ICST/ICST-STUFF/hwsol7.pdf`
+- `reports/ICST/ICST-STUFF/MIDTERM1-20111124-Solution.pdf`
+- `reports/ICST/ICST-STUFF/ps4-solns.pdf`
+- `reports/ICST/ICST-STUFF/ucfl.pdf`
+- `reports/ICSTHW3.docx`
+- `reports/Introduction To Computer Science Theory 2123.docx`
+- `reports/Introduction To Computer Science Theory 2123.pdf`
+- `reports/Introduction To The Theory Of Computation - Michael Sipser copy.pdf`
+- `reports/Introduction To The Theory Of Computation - Michael Sipser.pdf`
+- `reports/ISCT-HW4.docx`
+- `reports/ISCT-HW42.docx`
+- `reports/ISCT-HW4Notes.docx`
+- `reports/lect18.pdf`
+- `reports/lecture-16.pdf`
+- `reports/MIDTERM1-20111124-Solution.pdf`
+- `reports/notes.txt`
+- `reports/ps4-solns.pdf`
+- `reports/rdd3443_FCT_assign02 copy.PDF`
+- `reports/rdd3443_FCT_assign02.PDF`
+- `reports/reduction.pdf`
+- `reports/Report.pdf`
+- `reports/s3_3.pdf`
+- `reports/sol3.pdf`
+- `reports/sol4.pdf`
+- `reports/Sol5.pdf`
+- `reports/turing.pdf`
+- `reports/turingmachine.pdf`
+- `reports/ucfl.pdf`
+- `reports/UploadedFile_130051889226924856.doc`
+- `reports/UploadedFile_130084775846874074.doc`
 
-Only folders with actual GitHub-stored files are listed here. Heavy/video/data-only material stays in Drive and is listed in `DRIVE_ONLY.md` when detected.
+## Presentations
+
+- `presentations/closure.pptx`
+- `presentations/FCT_Hw9/closure.pptx`
+- `presentations/FCT_Hw9/NonContextFree.ppt`
+- `presentations/NonContextFree.ppt`
