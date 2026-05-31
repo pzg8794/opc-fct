@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Created with JFLAP 6.4.--><structure>
+	<type>turing</type>
+	<automaton>
+		<!--The list of states.-->
+		<block id="0" name="q0">
+			<tag>Machine0</tag>
+			<x>109.0</x>
+			<y>100.0</y>
+		</block>
+		<!--The list of transitions.-->
+		<transition>
+			<from>0</from>
+			<to>0</to>
+			<read>1</read>
+			<write>x</write>
+			<move>R</move>
+		</transition>
+		<!--The list of automata-->
+		<Machine0/>
+	</automaton>
+</structure>
