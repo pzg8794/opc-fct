@@ -1,20 +1,16 @@
 # ICST
 
-Path: `ICST`
+Path: `reports/ICST`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
 
 ## Items
 
 - `ICST - Final Exam Review/` (folder)
-- `ICST-HW3/` (folder)
 - `ICST-HW4/` (folder)
-- `ICST-HW6/` (folder)
-- `ICST-HW8/` (folder)
 - `ICST-HW9/` (folder)
-- `ICST-STUFF/` (folder)
 
 ## Notes
 

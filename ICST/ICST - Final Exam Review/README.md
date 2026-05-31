@@ -2,6 +2,10 @@
 
 Path: `ICST/ICST - Final Exam Review`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `a8.docx` (file)
@@ -21,8 +25,6 @@ Path: `ICST/ICST - Final Exam Review`
 - `hw7.pdf` (file)
 - `hw8.pdf` (file)
 - `hw9.pdf` (file)
-- `ICST - Assignment 9.docx` (file)
-- `ICST - Assignment 9.pdf` (file)
 - `ICST-A7.pdf` (file)
 - `ICST-HW6.pdf` (file)
 - `notes.txt` (file)
@@ -33,4 +35,4 @@ Path: `ICST/ICST - Final Exam Review`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

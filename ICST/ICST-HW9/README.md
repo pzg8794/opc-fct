@@ -2,6 +2,10 @@
 
 Path: `ICST/ICST-HW9`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `csci3255 HW  9 and 11.doc` (file)
@@ -32,7 +36,6 @@ Path: `ICST/ICST-HW9`
 - `HW9-61.jpg` (file)
 - `hw9.pdf` (file)
 - `HW9r.jff` (file)
-- `ICST - Assignment 9.docx` (file)
 - `Screen Shot 2013-05-06 at 12.30.56 AM.png` (file)
 - `Screen Shot 2013-05-06 at 12.31.44 AM.png` (file)
 - `Screen Shot 2013-05-06 at 12.33.23 AM.png` (file)
@@ -45,4 +48,4 @@ Path: `ICST/ICST-HW9`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

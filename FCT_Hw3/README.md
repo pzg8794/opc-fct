@@ -2,12 +2,14 @@
 
 Path: `FCT_Hw3`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `0907.0159.pdf` (file)
 - `fctSourceBook.pdf` (file)
-- `Homework 3.docx` (file)
-- `Homework 3.pdf` (file)
 - `hw1sol.pdf` (file)
 - `Screen Shot 2013-06-20 at 1.00.16 PM.png` (file)
 - `Screen Shot 2013-06-20 at 1.00.34 PM.png` (file)
@@ -38,4 +40,4 @@ Path: `FCT_Hw3`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

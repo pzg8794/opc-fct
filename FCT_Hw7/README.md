@@ -2,6 +2,10 @@
 
 Path: `FCT_Hw7`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `05-decide-4p.pdf` (file)
@@ -9,7 +13,6 @@ Path: `FCT_Hw7`
 - `Decidable Languages(2).docx` (file)
 - `FCTH7.docx` (file)
 - `FCTH7.pdf` (file)
-- `Homework 4_sol.pdf` (file)
 - `hw1.sols.pdf` (file)
 - `hw3ans.pdf` (file)
 - `hw6sol.pdf` (file)
@@ -30,4 +33,4 @@ Path: `FCT_Hw7`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
